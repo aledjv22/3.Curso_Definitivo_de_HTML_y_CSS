@@ -1,0 +1,19 @@
+nav{
+    color: darkcyan;
+}
+a{
+    text-decoration: none;
+    color: red;
+}
+main{
+    background-color: thistle;
+    width: 300px;
+    border-radius: 20px;
+}
+ol{
+    margin-bottom: 20px;
+}
+
+body ul{
+    font-size: 24px;
+}
