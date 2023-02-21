@@ -88,3 +88,25 @@ span{
     margin-left: 10px;
     margin-bottom: 10px;
 }
+#roles p{
+    margin-bottom: 0px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+#roles input{
+    background-color: blue;
+    border: 0;
+    width: 150px;
+    height: 30px;
+    color: aliceblue;
+    font-size: 16px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+#roles{
+    background-color: salmon;
+    width: 230px;
+    border-radius: 25px;
+}
