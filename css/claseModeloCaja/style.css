@@ -1,0 +1,13 @@
+/* El profe dice que siempre debemos tener esto en nuestros estilos para
+ya no tenernos que preocupar por el exceso y scroll que se genere */
+*{
+    box-sizing: border-box; /*suma el padding con  el borde del elementd */
+    padding: 0;
+    margin: 0;
+}
+main{
+    width: 100%;
+    height: 500px;
+    border: 10px solid grey;
+    padding: 20px 35px;
+}
